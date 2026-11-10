@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack em Desenvolvimento.`**
 
-Me chamo Eduardo Garcia, tenho 21 anos e moro em São Paulo, Capital. Sou apaixonado por tecnologia e desenvolvimento web. Atualmente, estou estudando HTML, CSS e Typescript, com planos de me aprofundar em outras linguagens. Cursei Análise e Desenvolvimento de Sitemas pela UNIP e estou procurando melhorar minhas habilidades antes de ingressar na área. 
+Me chamo Eduardo Garcia, tenho 22 anos e moro em São Paulo, Capital. Sou apaixonado por tecnologia e desenvolvimento web. Atualmente, estou estudando HTML, CSS e Typescript, com planos de me aprofundar em outras linguagens. Cursei Análise e Desenvolvimento de Sitemas pela UNIP e estou procurando melhorar minhas habilidades antes de ingressar na área. 
 Meu objetivo é me tornar um profissional em back-end e construir projetos que aprimorem minhas habilidades. Este GitHub será meu portfólio, onde registro minha evolução e projetos.
 
 <a href="https://www.linkedin.com/in/eduardo-garcia-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
